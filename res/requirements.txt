@@ -7,7 +7,7 @@ chardet==3.0.4
 cycler==0.10.0
 EasyProcess==0.3
 entrypoint2==0.2.3
-future==0.18.2
+future==0.18.3
 gast==0.2.2
 google-auth==1.23.0
 google-auth-oauthlib==0.4.2
